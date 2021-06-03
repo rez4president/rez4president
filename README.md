@@ -1,4 +1,4 @@
-### Hi there 👋 This is Raza Ul Kareem. You can call me Rez
+### Hi there, I'm Raza Ul Kareem - aka Rez 👋
 
 ## I'm a Fullstack Developer!!
 
