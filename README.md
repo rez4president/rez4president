@@ -1,12 +1,16 @@
 ### Hi there 👋 This is Raza Ul Kareem. You can call me Rez
 
+## I'm a Fullstack Developer!!
+
 - 🔭 I’m currently looking for a job as a Software Developer
 - 🌱 I’m currently learning Web Security and Testing
-- 👯 I’m looking to collaborate on Javascript and MERN Stack projects
-- 🤔 I’m looking for help with getting hired as a Software Developer
+- 👯 I’m looking to collaborate with other Software Developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about how my journey to learn how to code has been going so far
-- 📫 How to reach me: www.linkedin.com/in/raza-ul-kareem-82a5b8211
+- ⚡ Fun fact: I love to travel and go on road trips!
+
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="rez4president | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -14,6 +18,7 @@
 [<img align="left" alt="rez4president | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
